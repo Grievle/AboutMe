@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## About
+College of Computer Science
+Kookmin University, Seoul
+* Email : cho5095 at kookmin.ac.kr
+* Github : https://github.com/Grievle
 
-You can use the [editor on GitHub](https://github.com/Grievle/AboutMe/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Research Interest
+* Large scale graph mining
+* Machine Learning and Deep Learning
+* Computer Vision
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Experience
+* Software and Video Meeting Support, ROKA(Republic of Korea Army)
+ (Apr.2020 - Now)
+* Undergraduate research intern, DMLab, Kookmin Univ.
+(Aug. 2019 - Apr. 2020)
+	* Advisor : Professor [Ha-Myung Park](http://hmpark.me)
+* Linux Helper, LabAnyWhere, Kookmin Univ.
+(Mar. 2019 - Dec. 2019)
+* Software Edu. Contents Creater, [CodeSketch](https://codesketch.kr/)
+(Jun. 2019 - Aug. 2019)
+* Teaching Software (Python, Scratch and App Inventor), MakitCodeLab Academy Daechi Center
+(Apr. 2019 - Sep. 2019)
 
-### Markdown
+## Projects
+* Applying Data Mining Platform on Serverless (2019 - )
+	* Enumerating Triangle on Serverless (2019 - )
+* INBIS (IN Bus Information System) (2019)
+	* Reducing congestion on the bus using computer vision YOLO
+	* [Github](https://github.com/jjolbo/INBIS), [pdf](https://drive.google.com/file/d/1WvmZRBpPWDTrSciosrcLdMUDdvktIEQW/view?usp=sharing) 
+* Othello Game (2018)
+	* [Github](https://github.com/Grievle/Othello)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Grievle/AboutMe/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
