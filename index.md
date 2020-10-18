@@ -2,7 +2,7 @@
 College of Computer Science
 Kookmin University, Seoul
 * Email : cho5095 at kookmin.ac.kr
-* Github : https://github.com/Grievle
+* Github : [link](https://github.com/Grievle)
 
 ## Research Interest
 * Large scale graph mining
@@ -10,16 +10,14 @@ Kookmin University, Seoul
 * Computer Vision
 
 ## Experience
-* Software and Video Meeting Support, ROKA(Republic of Korea Army)
- (Apr.2020 - Now)
-* Undergraduate research intern, DMLab, Kookmin Univ.
+* Undergraduate research intern, [DMLab](https://kmu-dmlab.github.io/), Kookmin Univ.
 (Aug. 2019 - Apr. 2020)
 	* Advisor : Professor [Ha-Myung Park](http://hmpark.me)
-* Linux Helper, LabAnyWhere, Kookmin Univ.
+* Linux Helper, [LabAnyWhere](https://sites.google.com/kookmin.ac.kr/labanywhere/home?authuser=0), Kookmin Univ.
 (Mar. 2019 - Dec. 2019)
 * Software Edu. Contents Creater, [CodeSketch](https://codesketch.kr/)
 (Jun. 2019 - Aug. 2019)
-* Teaching Software (Python, Scratch and App Inventor), MakitCodeLab Academy Daechi Center
+* Teaching Software (Python, Scratch and App Inventor), [MakitCodeLab](http://makitcodelab.com/) Academy Daechi Center
 (Apr. 2019 - Sep. 2019)
 
 ## Projects
@@ -30,4 +28,9 @@ Kookmin University, Seoul
 	* [Github](https://github.com/jjolbo/INBIS), [pdf](https://drive.google.com/file/d/1WvmZRBpPWDTrSciosrcLdMUDdvktIEQW/view?usp=sharing) 
 * Othello Game (2018)
 	* [Github](https://github.com/Grievle/Othello)
-
+	
+## Extra Activities
+* Software and Video Meeting Support, ROKA(Republic of Korea Army)
+ (Apr.2020 - Now)
+* Teaching Computational Thinking for elementary school students
+ (Nov.2019)
